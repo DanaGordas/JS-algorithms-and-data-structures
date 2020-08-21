@@ -1,3 +1,9 @@
-# JS-algorithms-and-data-structures
+# JAVASCRIPT ALGORITHMS AND DATA STRUCTURES
 
-JS Algorithms and Data Structures 
+This is a sandbox repository where I upload code and exercises IN:
+
+1. Problem Solving Patterns 
+2. Recursion
+3. Searching Algorithms
+4. Sorting Algorithms
+5. Data Structures
